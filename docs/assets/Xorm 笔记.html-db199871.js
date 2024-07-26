@@ -1,0 +1,6 @@
+import{_ as n,W as o,X as s,Y as e,Z as r,a0 as d,a2 as t,C as c}from"./framework-5d92cd28.js";const i={},l=e("h2",{id:"使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#使用","aria-hidden":"true"},"#"),r(" 使用")],-1),m={href:"https://www.kancloud.cn/xormplus/xorm/167077",target:"_blank",rel:"noopener noreferrer"},h=t(`<h2 id="功能" tabindex="-1"><a class="header-anchor" href="#功能" aria-hidden="true">#</a> 功能</h2><h3 id="xorm工具" tabindex="-1"><a class="header-anchor" href="#xorm工具" aria-hidden="true">#</a> xorm工具</h3><div class="language-cmd line-numbers-mode" data-ext="cmd"><pre class="language-cmd"><code># 总之找到go-xorm/cmd/xorm位置
+cd $GOPATH/src/github.com/go-xorm/cmd/xorm 
+# mysql版
+xorm reverse mysql root:111111@tcp(127.0.0.1:3306)/lottery?charset=utf8 templates/goxorm
+# 会生成go文件在models目录
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3);function _(u,x){const a=c("ExternalLinkIcon");return o(),s("div",null,[l,e("p",null,[e("a",m,[r("文档"),d(a)])]),h])}const p=n(i,[["render",_],["__file","Xorm 笔记.html.vue"]]);export{p as default};

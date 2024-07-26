@@ -1,0 +1,1 @@
+import{_ as t,W as _,X as n,Y as e}from"./framework-5d92cd28.js";const c={},o=e("p",null,"打开终端",-1),s=e("p",null,"ctrl alt t",-1),l=[o,s];function r(a,i){return _(),n("div",null,l)}const p=t(c,[["render",r],["__file","Deepin 快捷键.html.vue"]]);export{p as default};
